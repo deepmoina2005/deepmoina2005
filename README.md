@@ -1,12 +1,26 @@
-- 👋 Hi, I’m Deepmoina Boruah
-- 👀 I’m interested in Full-stack Development and AI,ML
-- 🌱 I’m currently learning Full-stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Deepmoina Boruah
 
-<!---
-deepmoina2005/deepmoina2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currently exploring the world of **AI/ML**. I love building interactive web applications and learning new technologies.
+
+## 🚀 About Me
+- 🌱 Currently learning **MERN Stack** for full-stack development.
+- 🤖 Exploring **Machine Learning** and AI applications.
+- 🎯 Interested in building projects that solve real-world problems.
+- 💡 Passionate about **financial literacy** and developing innovative solutions in this domain.
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+
+## 📌 Projects
+- 🚀 [Financial Literacy & Budget Management Platform](#) *(Hackathon Project)*
+- 📊 More exciting projects coming soon!
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](#)
+- Twitter: [Your Twitter Profile](#)
+- Email: your.email@example.com
+
+Thanks for visiting! 😊 Feel free to explore my repositories and contribute. Let's learn and grow together! 🚀
