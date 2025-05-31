@@ -1,16 +1,11 @@
 <h1>console.log('Hello World')</h1><br>
   <h1>Sou Wagner Castro, Estudante de Multimídia 📹 e Full-stack 💻</h1>
-
-
   ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveerCastro&show_icons=true&theme=highcontrast)
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveerCastro&layout=compact&langs_count=7&theme=highcontrast"/>
-
   <a href="https://www.behance.net/oliveercastro"><img scr="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-  
   <a href="https://www.behance.net/oliveercastro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wag.ner77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-castro77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 ## 🛠️ Tecnologias:
 
 ### ⚡ Linguagens de programação:
