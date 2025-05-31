@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 - 📊 More exciting projects coming soon!
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [(https://www.linkedin.com/in/deepmoina-boruah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 - Twitter: [Your Twitter Profile](#)
 - Email: your.email@example.com
 
